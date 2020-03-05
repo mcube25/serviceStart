@@ -1,3 +1,4 @@
+//template driven approach
 import { Component, ViewChild } from '@angular/core';
 import { NgForm } from '@angular/forms';
 
